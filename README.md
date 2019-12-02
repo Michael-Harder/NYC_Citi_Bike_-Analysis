@@ -10,4 +10,4 @@ In an effort to not only reduce traffic, carbon emissions, and roadwear, but als
     * sklearn.0.21.2
     * matplotlib.3.1.0
     
-* Note: the csv files are too large to to push for the github repo and need to ne zipped to push and unzipped to work with.
+* Note: the csv files are too large for the github repo and need to be zipped to push and unzipped to work with.
